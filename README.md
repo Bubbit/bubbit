@@ -1,5 +1,5 @@
 <h1 align="center">Hoi 👋, I'm Remco Gubbels</h1>
-<h3 align="center">A software developer from the Netherlands</h3>
+<h3 align="center">A software developer from the Netherlands living in Sydney Australia</h3>
 
 <p align="center"><img width="500" src="https://github.com/Bubbit/bubbit/blob/master/description-json.png">
 
